@@ -11,13 +11,8 @@
   <a href="https://github.com/EdgoAlves820">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=EdgoAlves820&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
    
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EdgoAlves820&repo=github-readme-stats" />
-  </a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EdgoAlves820&repo=convoychat" />
-  </a> 
-   
-  
-    
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdgoAlves820&layout=compact)](https://github.com/EdgoAlves820/github-readme-stats)
+      
 </div>
   
 <div style="display: inline_block"><br>
