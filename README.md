@@ -7,10 +7,9 @@
 - 🖥️ Cursando Front-End pela Oracle + Alura;
 
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/EdgoAlves820/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">GitHub Readme Stats</h2>
- <p align="center">Get dynamically generated GitHub stats on your READMEs!</p>
-</p>
+    <a href="https://github.com/EdgoAlves820/github-readme-stats/actions">
+      <img alt="Tests Passing" src="https://github.com/EdgoAlves820/github-readme-stats/workflows/Test/badge.svg" />
+    </a>
 
 <div align="center">
   
