@@ -9,8 +9,7 @@
 
 <div align="center">
     
-  <a href="https://github.com/EdgoAlves820">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=EdgoAlves820&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  | <a href="https://github.com/EdgoAlves820"><img width="48%" src="https://github-readme-stats.vercel.app/api?username=EdgoAlves820&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" alt="EdgoAlves820's github stats" /></a> |
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdgoAlves820&layout=compact&langs_count=16&theme=vision-friendly-dark"/>
             
 </div>
