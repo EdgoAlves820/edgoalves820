@@ -24,9 +24,19 @@
 <div>
   <a href="https://www.linkedin.com/in/edgo820" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:edgoalves820@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
-  
+    
 </div>
+
+#### Top Repositories
+
+
+<a href="https://github.com/EdgoAlves820/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EdgoAlves820&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EdgoAlves820&repo=anuraghazra.github.io&theme=buefy" />
+</a>
+
 <br><br>
 
 <strong>IDE</strong>
