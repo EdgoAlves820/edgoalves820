@@ -10,7 +10,8 @@
   
   <a href="https://github.com/EdgoAlves820">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=EdgoAlves820&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+   
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdgoAlves&layout=compact)](https://github.com/EdgoAlves820/github-readme-stats)
     
 </div>
   
