@@ -29,10 +29,15 @@
 <div>
   <a href="https://www.linkedin.com/in/edgo820" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:edgoalves820@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+  
+</div>
+<br><br>
+
+IDE
+
+<div>
+ 
   <a href="https://www.jetbrains.com/pycharm/"><img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"></a>
-   
   
- 
 </div>  
- 
-  
