@@ -6,12 +6,13 @@
 - 🖥️ Cursando FullStack pelo Bootcamp Santander + DIO;
 - 🖥️ Cursando Front-End pela Oracle + Alura;
 
-<p align="center">
-    <a href="https://github.com/EdgoAlves820/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/EdgoAlves820/github-readme-stats/workflows/Test/badge.svg" />
-    </a>
+
 
 <div align="center">
+  <p align="center">
+    <a href="https://github.com/EdgoAlves820/github-readme-stats/actions">
+      <img alt="Tests Passing" src="https://github.com/EdgoAlves820/github-readme-stats/workflows/Test/badge.svg" />
+   </a></p>
   
   <a href="https://github.com/EdgoAlves820">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdgoAlves820&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
