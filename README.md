@@ -12,10 +12,8 @@
     
   <a href="https://github.com/EdgoAlves820">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdgoAlves820&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdgoAlves820&layout=compact"/>
-   
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdgoAlves820&layout=compact)](https://github.com/EdgoAlves820/github-readme-stats)
-         
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdgoAlves820&layout=compact&langs_count=16&theme=radical"/>
+            
 </div>
   
 <div style="display: inline_block"><br>
