@@ -11,6 +11,13 @@
   <a href="https://github.com/EdgoAlves820">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=EdgoAlves820&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
    
+  <a href="https://github.com/EdgoAlves820/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EdgoAlves820&repo=github-readme-stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  </a> 
+   
   
     
 </div>
