@@ -9,15 +9,12 @@
 
 
 <div align="center">
-  <p align="center">
-    <a href="https://github.com/EdgoAlves820/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/EdgoAlves820/github-readme-stats/workflows/Test/badge.svg" />
-   </a></p>
-  
+    
   <a href="https://github.com/EdgoAlves820">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdgoAlves820&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
    
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdgoAlves820&layout=compact)](https://github.com/EdgoAlves820/github-readme-stats)
+   [![EdgoAlves820's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EdgoAlves820&layout=compact)](https://github.com/EdgoAlves820/github-readme-stats)
       
 </div>
   
