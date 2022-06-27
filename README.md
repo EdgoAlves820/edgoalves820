@@ -10,7 +10,7 @@
   
   <a href="https://github.com/EdgoAlves820">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=EdgoAlves820&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdgoAlves820&layout=compact&langs_count=7&theme=dracula"/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
     
 </div>
   
@@ -29,7 +29,7 @@
   <a href="https://www.linkedin.com/in/edgo820" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href ="mailto:edgoalves820@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
  
 </div>  
  
