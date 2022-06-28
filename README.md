@@ -36,7 +36,7 @@
     
 </div>
 
-### <strong>IDE</strong>
+### <strong>Tools:</strong>
 
 <div>
  
