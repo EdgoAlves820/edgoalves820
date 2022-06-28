@@ -1,6 +1,6 @@
 ## Fala manitos(as) 👋 eu aqui caindo de Paraquedas no mundo da Programação...
  
-- ™️   Atualmente trabalho na área da Segurança Patrimonial a mais de 10 anos;
+- 💼 Atualmente trabalho na área da Segurança Patrimonial a mais de 10 anos;
 - 🔰  Buscando novos desafios na área de TI; 
 - 🎓 Graduando ADS pela UNINTER;
 - 🖥️ Cursando FullStack pelo Bootcamp Santander + DIO;
