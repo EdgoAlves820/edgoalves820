@@ -45,4 +45,4 @@
  
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=MthAlvarez&theme=gotham&hide_border=true&area=true)
+![Contribution](https://activity-graph.herokuapp.com/graph?username=EdgoAlves820&theme=gotham&hide_border=true&area=true)
