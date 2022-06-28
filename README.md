@@ -15,7 +15,6 @@
  <code><img height="45" alt="Edgo-html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
  <code><img height="45" alt="Edgo-css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
  <code><img height="35" alt="Edgo-javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
- 
     
 </div>
   
@@ -39,5 +38,3 @@
  ![Snake animation](https://github.com/EdgoAlves820/EdgoAlves820/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-
-[![EdgoAlves820's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EdgoAlves820)](https://github.com/EdgoAlves820/github-readme-stats)
