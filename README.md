@@ -44,3 +44,5 @@
  ![Snake animation](https://github.com/EdgoAlves820/EdgoAlves820/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+![Contribution](https://activity-graph.herokuapp.com/graph?username=MthAlvarez&theme=gotham&hide_border=true&area=true)
