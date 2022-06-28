@@ -38,4 +38,10 @@
  
  ![Snake animation](https://github.com/EdgoAlves820/EdgoAlves820/blob/output/github-contribution-grid-snake.svg)
   
-</div>  
+</div>
+
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/EdgoAlves820/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ <h2 align="center">GitHub Readme Stats</h2>
+ <p align="center">Get dynamically generated GitHub stats on your READMEs!</p>
+</p>
