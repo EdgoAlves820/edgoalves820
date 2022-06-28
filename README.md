@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Edgo Alves&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Edgo+Alves+Monteiro;I'm+17+years+old;I+from+Brasil,+SP;I+study+systems+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Edgo+Alves+Monteiro;I'm+34+years+old;I+from+Brasil,+SE;I+study+systems+development+Analysis+Uninter;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ## Fala manitos(as) 👋 eu aqui caindo de Paraquedas no mundo da Programação...
  
@@ -13,7 +13,7 @@
 | <a href="https://github.com/EdgoAlves820/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=EdgoAlves820&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&hide_border=true" alt="EdgoAlves820 github stats" /></a> | <a href="https://github.com/EdgoAlves820/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdgoAlves820&layout=compact&theme=vision-friendly-dark&hide_border=true" /></a> |
 | ------------- | ------------- |
   
-##### <strong>Estudando no momento:</strong>
+#####
 
 <div style="display: inline_block"><br>
     
