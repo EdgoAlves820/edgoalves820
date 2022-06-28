@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Edgo Alves Monteiro&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Dev beginner&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Edgo+Alves+Monteiro;I'm+34+years+old;I+from+Brazil,+SE;I+study+systems+development+Analysis+at+Uninter;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -30,11 +30,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=EdgoAlves820&theme=vision-friendly-dark&row=2&no-bg=true&column=6&margin-w=20&margin-h=15" />
 </p>
 
-## 
+## <strong>My Networks:</strong>
 
 <div>
-  <strong>My Networks:</strong>
-  
+    
   <a href="https://www.linkedin.com/in/edgo820" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:edgoalves820@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     
