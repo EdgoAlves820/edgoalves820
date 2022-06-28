@@ -38,8 +38,6 @@
  
  ![Snake animation](https://github.com/EdgoAlves820/EdgoAlves820/blob/output/github-contribution-grid-snake.svg)
  
- [![EdgoAlves820's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EdgoAlves820)](https://github.com/EdgoAlves820/github-readme-stats)
- 
 </div>
 
-
+[![EdgoAlves820's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EdgoAlves820)](https://github.com/EdgoAlves820/github-readme-stats)
