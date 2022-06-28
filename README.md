@@ -9,7 +9,7 @@
 | <a href="https://github.com/EdgoAlves820/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=EdgoAlves820&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&hide_border=true" alt="EdgoAlves820 github stats" /></a> | <a href="https://github.com/EdgoAlves820/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdgoAlves820&layout=compact&theme=vision-friendly-dark&hide_border=true" /></a> |
 | ------------- | ------------- |
   
-##### Studying in this moment:
+##### <strong>Estudando no momento:</strong>
 
 <div style="display: inline_block"><br>
     
