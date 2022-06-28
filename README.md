@@ -30,9 +30,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=EdgoAlves820&theme=vision-friendly-dark&row=2&no-bg=true&column=6&margin-w=20&margin-h=15" />
 </p>
 
-## <strong>My Networks:</strong>
+## 
 
 <div>
+  <strong>My Networks:</strong>
+  
   <a href="https://www.linkedin.com/in/edgo820" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:edgoalves820@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     
