@@ -29,7 +29,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=EdgoAlves820&theme=dracula&row=2&no-bg=true&column=6&margin-w=15&margin-h=15" />
 </p>
 
-## <strong>My Networks:</strong>
+## <h3>My Networks:</h3>
 
 <div>
     
@@ -42,8 +42,6 @@
 
 <div>
  
-<p align="left"> <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pycharm-scm/pycharm-scm-icon.svg" alt="pycharm" width="40" height="40"/> </a> </p> 
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
  <a href="https://www.jetbrains.com/pycharm/"><img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"></a>
  <a href="https://www.sublimetext.com/"><img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"></a>
  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
