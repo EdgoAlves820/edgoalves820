@@ -63,7 +63,7 @@
 
 <div align="center">
   
-  <p>Créditos:</P>
+  <p>Credits:</P>
   <a href="https://github.com/anuraghazra">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a>
   
 </div>
