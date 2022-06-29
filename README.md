@@ -63,7 +63,7 @@
 <div align="center">
   
   <p>Créditos:</P>
-  <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
+  <a href="https://github.com/anuraghazra">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
   
 </div>
 
