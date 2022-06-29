@@ -5,16 +5,15 @@
 ## Fala manitos(as) 👋 eu aqui caindo de Paraquedas no mundo da Programação...
  
 - 💼 Atualmente trabalho na área da Segurança Patrimonial a mais de 10 anos;
-- 🔰  Buscando novos desafios na área de TI; 
+- 🔰 Buscando novos desafios na área de TI; 
 - 🎓 Graduando ADS pela UNINTER;
 - 🖥️ Cursando FullStack pelo Bootcamp Santander + DIO;
 - 🖥️ Cursando Front-End pela Oracle + Alura;
 
 <br>
 
-| <a href="https://github.com/EdgoAlves820/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=edgoalves820&show_icons=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true" alt="edgoalves820 github stats" /></a> | <a href="https://github.com/EdgoAlves820/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edgoalves820&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide_border=true" /></a> 
-| ------------- | ------------- |
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edgoalves820&" alt="edgoalves820" /></p>
+| <a href="https://github.com/edgoalves820/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=edgoalves820&show_icons=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true" alt="EdgoAlves820 github stats"/></a> | <a href="https://github.com/edgoalves820/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgoalves820&layout=compact&theme=chartreuse-dark&hide_border=true" /></a> 
+| ------------- | ------------ |
   
 ## <h3>• Basic Knowledge:</h3>
 
