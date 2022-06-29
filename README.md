@@ -10,18 +10,19 @@
 - 🖥️ Cursando FullStack pelo Bootcamp Santander + DIO;
 - 🖥️ Cursando Front-End pela Oracle + Alura;
 
+<br>
+
 | <a href="https://github.com/EdgoAlves820/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=EdgoAlves820&show_icons=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true" alt="EdgoAlves820 github stats" /></a> | <a href="https://github.com/EdgoAlves820/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdgoAlves820&layout=compact&theme=chartreuse-dark&hide_border=true" /></a> |
 | ------------- | ------------- |
   
-## <h3>Basic Knowledge:</h3>
+## <h3>• Basic Knowledge:</h3>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   
- <code><img height="40" alt="Edgo-python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">  </code><code><img height="40" alt="Edgo-html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">  </code><code><img height="45" alt="Edgo-css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">  </code>
- <code><img height="35" alt="Edgo-javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
- <code><img height="35" alt="Edgo-git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
- 
- 
+<code><img height="40" alt="Edgo-python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">      </code><code><img height="40" alt="Edgo-html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">  </code><code><img height="45" alt="Edgo-css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">  </code>
+<code><img height="35" alt="Edgo-javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="35" alt="Edgo-git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
+  
 </div>
   
 ##
@@ -30,7 +31,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=EdgoAlves820&theme=dracula&row=2&no-bg=true&column=6&margin-w=15&margin-h=15" />
 </p>
 
-## <h3>My Networks:</h3>
+## <h3>• My Networks:</h3>
 
 <div>
     
@@ -39,7 +40,7 @@
     
 </div>
 
-## <h3>Tools:</h3>
+## <h3>• Tools:</h3>
 
 <div>
  
@@ -63,9 +64,8 @@
 <div align="center">
   
   <p>Créditos:</P>
-  <a href="https://github.com/anuraghazra">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
+  <a href="https://github.com/anuraghazra">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a>
   
 </div>
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
