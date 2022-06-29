@@ -12,9 +12,7 @@
 
 <br>
 
-| <a href="https://github.com/EdgoAlves820">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edgoalves820&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> |
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgoalves820&layout=compact&langs_count=7&theme=dracula"/> 
+| <a href="https://github.com/EdgoAlves820/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=edgoalves820&show_icons=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true" alt="edgoalves820 github stats" /></a> | <a href="https://github.com/EdgoAlves820/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgoalves820&layout=compact&theme=chartreuse-dark&hide_border=true" /></a> 
 | ------------- | ------------- |
   
 ## <h3>• Basic Knowledge:</h3>
