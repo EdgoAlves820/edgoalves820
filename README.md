@@ -26,7 +26,6 @@
   <code><img height="35" alt="github" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></code>
   <code><img height="35" alt="git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
   
-  
 </div>
   
 ##
@@ -39,6 +38,7 @@
 
 <div>
     
+ <a href="https://github.com/EdgoAlves820" target="_blank"> <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/edgo820" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="mailto:edgoalves820@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     
@@ -68,7 +68,7 @@
 <div align="center">
   
   <p>Credits:</P>
-  <a href="https://github.com/anuraghazra">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a>
+  <a href="https://github.com/anuraghazra">Anurag Hazra</a> & <a href="https://github.com/rafaballerini">Rafaella Ballerini</a>
   
 </div>
 
