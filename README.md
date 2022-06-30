@@ -12,7 +12,7 @@
 
 <br>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=edgoalves820&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="edgoalves820"> | <a href="https://github.com/EdgoAlves820/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdgoAlves820&layout=compact&theme=chartreuse-dark&hide_border=true" /></a> 
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=edgoalves820&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="edgoalves820"> | <a href="https://github.com/edgoalves820/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgoalves820&langs_count=8&layout=compact&theme=chartreuse-dark&hide_border=true" /></a> 
 | ------------- | ------------ |
   
 ## <h3>• Basic Knowledge:</h3>
@@ -20,11 +20,11 @@
 <div style="display: inline_block">
   
   <code><img height="40" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-  <code><img height="40" alt="html5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>         <code><img height="45" alt="css3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-  <code><img height="35" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+  <code><img height="40" alt="html5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>         <code><img height="40" alt="css3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+  <code><img height="38" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
   <code><img height="40" alt="nodejs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
-  <code><img height="35" alt="github" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></code>
-  <code><img height="35" alt="git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
+  <code><img height="40" alt="github" src="https://user-images.githubusercontent.com/107283708/176740466-4f060c8e-32cd-4b8f-86b8-90338859fcb4.png"></code>
+  <code><img height="40" alt="git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
   
 </div>
   
