@@ -24,10 +24,9 @@
   <code><img height="40" alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"></code>
   <code><img height="38" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
   <code><img height="40" alt="nodejs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
-  <code><img height="40" alt="github" src="https://user-images.githubusercontent.com/107283708/176740466-4f060c8e-32cd-4b8f-86b8-90338859fcb4.png"></code>
   <code><img height="40" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
-  
-  
+  <code><img height="40" alt="github" src="https://user-images.githubusercontent.com/107283708/176740466-4f060c8e-32cd-4b8f-86b8-90338859fcb4.png"></code>
+
 </div>
   
 ##
@@ -55,13 +54,13 @@
  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
  <a href="https://www.eclipse.org/downloads/"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"></a>
  
- ![Contribution](https://activity-graph.herokuapp.com/graph?username=EdgoAlves820&theme=gotham&hide_border=true&area=true)
+ ![Contribution](https://activity-graph.herokuapp.com/graph?username=edgoalves820&theme=gotham&hide_border=true&area=true)
  
 </div>
 
 <div align="center">
  
- <br><p align="centre"><b>Visitors Count</b></p>  
+ <br><p align="centre"><b>Visitors Count:</b></p>  
  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{EdgoAlves820}/count.svg" /></p> 
  <br>
  
@@ -69,8 +68,9 @@
 
 <div align="center">
   
-  <p>Credits:</P>
+ <p>Credits:</P>
   <a href="https://github.com/anuraghazra">Anurag Hazra</a> & <a href="https://github.com/rafaballerini">Rafaella Ballerini</a>
+ 
   
 </div>
 
