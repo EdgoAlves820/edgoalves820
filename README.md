@@ -21,10 +21,11 @@
   
   <code><img height="40" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
   <code><img height="40" alt="html5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>         <code><img height="45" alt="css3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-  <code><img height="35" width="35" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+  <code><img height="35" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
   <code><img height="40" alt="nodejs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
-  <code><img height="35" alt="git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
   <code><img height="35" alt="github" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></code>
+  <code><img height="35" alt="git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
+  
   
 </div>
   
