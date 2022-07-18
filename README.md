@@ -12,7 +12,7 @@
 
 <br>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=edgoalves820&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="edgoalves820"> | <a href="https://github.com/edgoalves820/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgoalves820&langs_count=8&layout=compact&theme=chartreuse-dark&hide_border=true" /></a> 
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=edgoalves820&show_icons=true&locale=en&theme=chartreuse-dark&hide_border=true" alt="edgoalves820" /> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edgoalves820&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide_border=true" alt="edgoalves820" /> </a>
 | ------------- | ------------ |
   
 ## <h3>• Basic Knowledge:</h3>
@@ -35,7 +35,8 @@
 ##
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EdgoAlves820&theme=dracula&row=2&no-bg=true&column=6&margin-w=15&margin-h=15" />
+  
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src ="https://github-profile-trophy.vercel.app/?username=edgoalves820&theme=dracula&row=2&no-bg=true&column=6&margin-w=15&margin-h=15" alt="edgoalves820" /></a>
 </p>
 
 ## <h3>• My Networks:</h3>
@@ -56,10 +57,10 @@
  <a href="https://www.sublimetext.com/"><img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"></a>
  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
  <a href="https://www.eclipse.org/downloads/"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"></a>
- <a href="http://lite.acad.univali.br/portugol/"><img src="https://img.shields.io/badge/Portugol-yellow?style=for-the-badge&logo=portugol&logoColor=yellow"></a>
+ <a href="http://lite.acad.univali.br/portugol/"><img src="https://img.shields.io/badge/Portugol_studio-yellow?style=for-the-badge&logo=portugol-studio&logoColor=white"></a>
  
  ![Contribution](https://activity-graph.herokuapp.com/graph?username=edgoalves820&theme=gotham&hide_border=true&area=true)
- 
+  
 </div>
 
 <div align="center">
