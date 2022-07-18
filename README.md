@@ -12,7 +12,7 @@
 
 <br>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=edgoalves820&show_icons=true&locale=en&theme=chartreuse-dark&hide_border=true" alt="edgoalves820" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edgoalves820&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide_border=true" alt="edgoalves820" />
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=edgoalves820&show_icons=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true" alt="edgoalves820" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edgoalves820&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide_border=true" alt="edgoalves820" />
 | ------------- | ------------ |
   
 ## <h3>• Basic Knowledge:</h3>
@@ -32,10 +32,11 @@
 
 </div>
   
-##
+## <h3>• 🏆 Github Profile Trophy</h3>
+
 <div>
  
-<p align="center"> <a href="https://github.com/edgoalves820/github-profile-trophy"><img src ="https://github-profile-trophy.vercel.app/?username=edgoalves820&theme=dracula&row=2&no-bg=true&column=6&margin-w=20&margin-h=20" alt="edgoalves820"/></a> </p>
+ <p align="center"> <a href="https://github.com/edgoalves820/github-profile-trophy"><img src ="https://github-profile-trophy.vercel.app/?username=edgoalves820&include_all_commits=true&theme=dracula&row=2&no-bg=true&column=6&margin-w=20&margin-h=20" alt="edgoalves820"/></a> </p>
  
 </div>
 
