@@ -12,7 +12,7 @@
 
 <br>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=edgoalves820&show_icons=true&locale=en&theme=chartreuse-dark&hide_border=true" alt="edgoalves820" /> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edgoalves820&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide_border=true" alt="edgoalves820" /> </a>
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=edgoalves820&show_icons=true&locale=en&theme=chartreuse-dark&hide_border=true" alt="edgoalves820" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edgoalves820&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide_border=true" alt="edgoalves820" />
 | ------------- | ------------ |
   
 ## <h3>• Basic Knowledge:</h3>
@@ -36,7 +36,7 @@
 
 <p align="center">
   
- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src ="https://github-profile-trophy.vercel.app/?username=edgoalves820&theme=dracula&row=2&no-bg=true&column=6&margin-w=15&margin-h=15" alt="edgoalves820" /></a>
+ <img src="https://github-profile-trophy.vercel.app/?username=edgoalves820&theme=dracula&row=2&no-bg=true&column=6&margin-w=20&margin-h=20" alt="edgoalves820"/>
 </p>
 
 ## <h3>• My Networks:</h3>
