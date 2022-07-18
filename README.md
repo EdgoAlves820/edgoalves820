@@ -56,6 +56,7 @@
  <a href="https://www.sublimetext.com/"><img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"></a>
  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
  <a href="https://www.eclipse.org/downloads/"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"></a>
+ <a href="http://lite.acad.univali.br/portugol/"><img src="https://img.shields.io/badge/Portugol-yellow?style=for-the-badge&logo=portugol&logoColor=yellow"></a>
  
  ![Contribution](https://activity-graph.herokuapp.com/graph?username=edgoalves820&theme=gotham&hide_border=true&area=true)
  
@@ -64,7 +65,7 @@
 <div align="center">
  
  <br><p align="centre"><b>Visitors Count:</b></p>  
- <p align="center"><img align="center" src="https://profile-counter.glitch.me/{EdgoAlves820}/count.svg" /></p> 
+ <p align="center"><img align="center" src="https://profile-counter.glitch.me/{EdgoAlves820}/count.svg" /></p>
  <br>
  
 </div>
