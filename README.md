@@ -36,8 +36,8 @@
 
 <div>
  
- <p align="center"> <a href="https://github.com/edgoalves820/github-profile-trophy"><img src ="https://github-profile-trophy.vercel.app/?username=edgoalves820&include_all_commits=true&theme=dracula&row=2&no-bg=true&column=6&margin-w=20&margin-h=20" alt="edgoalves820"/></a> </p>
- 
+ <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=edgoalves820&include_all_commits=true&theme=dracula&row=2&no-bg=true&column=6&margin-w=20&margin-h=20" /></p>
+
 </div>
 
 ## <h3>• My Networks:</h3>
