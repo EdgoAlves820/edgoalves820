@@ -12,8 +12,12 @@
 
 <br>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=edgoalves820&show_icons=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true" alt="edgoalves820" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edgoalves820&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide_border=true" alt="edgoalves820" />
+<div align="center">
+
+| <img src="https://github-readme-stats.vercel.app/api?username=edgoalves820&show_icons=true&include_all_commits=true&theme=chartreuse-dark&count_private=true&hide_border=true" alt="edgoalves820" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgoalves820&show_icons=true&layout=compact&theme=chartreuse-dark&langs_count=7&langs_count=7&hide_border=true" alt="edgoalves820" />
 | ------------- | ------------ |
+
+</div>
   
 ## <h3>• Basic Knowledge:</h3>
 
@@ -36,7 +40,7 @@
 
 <div>
  
- <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=edgoalves820&include_all_commits=true&theme=dracula&row=2&no-bg=true&column=6&margin-w=20&margin-h=20" /></p>
+ <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=edgoalves820&include_all_commits=true&count_private=true&theme=dracula&row=2&no-bg=true&column=6&margin-w=20&margin-h=20" /></p>
 
 </div>
 
