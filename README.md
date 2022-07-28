@@ -64,6 +64,7 @@
  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
  <a href="https://www.eclipse.org/downloads/"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"></a>
  <a href="http://lite.acad.univali.br/portugol/"><img src="https://img.shields.io/badge/Portugol_studio-yellow?style=for-the-badge&logo=portugol-studio&logoColor=white"></a>
+ <a href="https://www.jetbrains.com/idea/"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white"></a>
  
  ![Contribution](https://activity-graph.herokuapp.com/graph?username=edgoalves820&theme=gotham&hide_border=true&area=true)
   
