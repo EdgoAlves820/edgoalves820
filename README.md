@@ -14,7 +14,7 @@
 
 <div align="center">
 
-| <img src="https://github-readme-stats.vercel.app/api?username=edgoalves820&show_icons=true&include_all_commits=true&theme=chartreuse-dark&count_private=true&hide_border=true" alt="edgoalves820" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgoalves820&show_icons=true&layout=compact&theme=chartreuse-dark&langs_count=7&langs_count=7&hide_border=true" alt="edgoalves820" />
+| <img src="https://github-readme-stats.vercel.app/api?username=EdgoAlves820&show_icons=true&include_all_commits=true&theme=chartreuse-dark&count_private=true&hide_border=true" alt="edgoalves820" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdgoAlves820&show_icons=true&layout=compact&theme=chartreuse-dark&langs_count=7&langs_count=7&hide_border=true" alt="edgoalves820" />
 | ------------- | ------------ |
 
 </div>
