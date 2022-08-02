@@ -7,7 +7,6 @@
 - 💼 Atualmente trabalho na área da Segurança Patrimonial a mais de 10 anos;
 - 🔰 Buscando novos desafios na área de TI; 
 - 🎓 Graduando ADS pela UNINTER;
-- 💻 Cursando FullStack pelo Bootcamp Santander + DIO;
 - 💻 Cursando Front-End pela Oracle + Alura;
 
 <br>
