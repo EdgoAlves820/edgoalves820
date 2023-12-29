@@ -65,7 +65,7 @@
  <a href="http://lite.acad.univali.br/portugol/"><img src="https://img.shields.io/badge/Portugol_studio-yellow?style=for-the-badge&logo=portugol-studio&logoColor=white"></a>
  <a href="https://www.jetbrains.com/idea/"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white"></a>
  
- ![Contribution](https://activity-graph.herokuapp.com/graph?username=edgoalves820&theme=gotham&hide_border=true&area=true)
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=edgoalves820&bg_color=000000&color=ededed&line=008000&point=24292e&area=true&hide_border=true)](https://github.com/edgoalves820/github-readme-activity-graph)
   
 </div>
 
