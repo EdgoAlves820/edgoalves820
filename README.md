@@ -1,6 +1,6 @@
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text=Dev.+beginner&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Edgo+Alves+Monteiro;I'm+34+years+old;I+from+Brazil,+SE;I+study+systems+development+Analysis+at+Uninter;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Edgo+Alves+Monteiro;I'm+36+years+old;I+from+Brazil,+SE;I+study+systems+development+Analysis+at+Uninter;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ## Fala manitos(as) 👋 eu aqui caindo de Paraquedas no mundo da Programação...
  
