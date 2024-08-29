@@ -30,7 +30,7 @@
   <code><img height="40" alt="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
   <code><img height="40" alt="typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
   <code><img height="40" alt="angular" src="https://angular.io/assets/images/logos/angular/angular.svg"></code>
-  <code><img height="40" alt="bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></code>
+  <code><img height="40" alt="bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"></code>
   <code><img height="40" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
   <code><img height="40" alt="github" src="https://user-images.githubusercontent.com/107283708/176740466-4f060c8e-32cd-4b8f-86b8-90338859fcb4.png"></code>
 
