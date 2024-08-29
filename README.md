@@ -22,10 +22,10 @@
 
 <div style="display: inline_block">
   
-  <code><img height="40" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
   <code><img height="40" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"></code>
   <code><img height="40" alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"></code>
   <code><img height="40" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+  <code><img height="40" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
   <code><img height="40" alt="java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
   <code><img height="40" alt="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
   <code><img height="40" alt="typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
@@ -40,7 +40,7 @@
 
 <div>
  
- <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=edgoalves820&include_all_commits=true&count_private=true&theme=dracula&row=2&no-bg=true&column=6&margin-w=20&margin-h=20" /></p>
+ <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=edgoalves820&include_all_commits=true&count_private=true&theme=dracula&row=2&no-bg=true&column=8&margin-w=20&margin-h=20" /></p>
 
 </div>
 
