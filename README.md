@@ -13,8 +13,8 @@
 
 <div align="center">
 
-| <img src="https://github-readme-stats.vercel.app/api?username=EdgoAlves820&show_icons=true&include_all_commits=true&theme=chartreuse-dark&count_private=true&hide_border=true" alt="edgoalves820" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdgoAlves820&show_icons=true&layout=compact&theme=chartreuse-dark&langs_count=7&langs_count=7&hide_border=true" alt="edgoalves820" />
-| ------------- | ------------ |
+| <a href="https://github.com/EdgoAlves820/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=EdgoAlves820&show_icons=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true" alt="EdgoAlves820 github stats" /></a> | <a href="https://github.com/EdgoAlves820/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdgoAlves820&layout=compact&theme=chartreuse-dark&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 </div>
   
@@ -48,8 +48,8 @@
 
 <div>
     
- <a href="https://github.com/EdgoAlves820" target="_blank"> <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/edgo820" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://github.com/EdgoAlves820" target="_blank"> <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
  <a href="mailto:edgoalves820@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     
 </div>
@@ -58,12 +58,12 @@
 
 <div>
  
- <a href="https://www.jetbrains.com/pycharm/"><img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"></a>
- <a href="https://www.sublimetext.com/"><img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"></a>
  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
+ <a href="https://www.sublimetext.com/"><img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"></a>
+ <a href="https://www.jetbrains.com/pycharm/"><img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"></a>
  <a href="https://www.eclipse.org/downloads/"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"></a>
- <a href="http://lite.acad.univali.br/portugol/"><img src="https://img.shields.io/badge/Portugol_studio-yellow?style=for-the-badge&logo=portugol-studio&logoColor=white"></a>
  <a href="https://www.jetbrains.com/idea/"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white"></a>
+ <a href="http://lite.acad.univali.br/portugol/"><img src="https://img.shields.io/badge/Portugol_studio-yellow?style=for-the-badge&logo=portugol-studio&logoColor=white"></a>
  
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=edgoalves820&bg_color=000000&color=ededed&line=008000&point=24292e&area=true&hide_border=true)](https://github.com/edgoalves820/github-readme-activity-graph)
   
