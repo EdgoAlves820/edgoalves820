@@ -1,13 +1,13 @@
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text=Dev.+beginner&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Edgo+Alves+Monteiro;I'm+36+years+old;I+from+Brazil,+SE;I+study+systems+development+Analysis+at+Uninter;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Edgo+Alves+Monteiro;I'm+38+years+old;I+from+Brazil,+SE;I+study+systems+development+Analysis+at+Uninter;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-## Fala manitos(as) 👋 eu aqui caindo de Paraquedas no mundo da Programação...
+## Fala manitos(as)👋🏾 eu aqui caindo de Paraquedas no mundo da Programação...
  
-- 💼 Atualmente trabalho na área da Segurança Patrimonial a mais de 10 anos;
+- 💼 Atualmente trabalho na área da Segurança Patrimonial a mais de 15 anos;
 - 🔰 Buscando novos desafios na área de TI; 
-- 🎓 Graduando ADS pela UNINTER;
-- 🖥️ Cursando Front-End pela Oracle + Alura;
+- 🎓 Graduando ADS pela Faculdade UNINTER;
+<!--- 🖥️ Cursando Front-End pela Oracle + Alura; -->
 
 <br>
 
@@ -40,7 +40,7 @@
 
 <div>
  
- <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=edgoalves820&include_all_commits=true&count_private=true&theme=dracula&row=2&no-bg=true&column=8&margin-w=20&margin-h=20" /></p>
+ <p align="center"><img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=edgoalves820&include_all_commits=true&count_private=true&theme=dracula&row=2&no-bg=true&column=8&margin-w=20&margin-h=20" /></p>
 
 </div>
 
@@ -65,24 +65,23 @@
  <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white" target="_blank"></a>
  <a href="http://lite.acad.univali.br/portugol/" target="_blank"><img src="https://img.shields.io/badge/Portugol_studio-yellow?style=for-the-badge&logo=portugol-studio&logoColor=white" target="_blank"></a>
  
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=edgoalves820&bg_color=000000&color=ededed&line=008000&point=24292e&area=true&hide_border=true)](https://github.com/edgoalves820/github-readme-activity-graph)
-  
+[![Ashutosh's github activity graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)](https://github.com/edgoalves820/github-readme-activity-graph)
+
 </div>
 
 <div align="center">
  
  <br><p align="centre"><b>Visitors Count:</b></p>  
- <p align="center"><img align="center" src="https://profile-counter.glitch.me/{EdgoAlves820}/count.svg" /></p>
- <br>
- 
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fedgoalves820%2Fedgoalves820&label=VISITORS&labelColor=#58A6FF&countColor=%230A0209" /> 
+  
 </div>
 
-<div align="center">
+<!--<div align="center">
   
  <p>Credits:</P>
   <a href="https://github.com/anuraghazra">Anurag Hazra</a> & <a href="https://github.com/rafaballerini">Rafaella Ballerini</a>
  
   
-</div>
+</div> -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
