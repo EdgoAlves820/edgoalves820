@@ -70,6 +70,10 @@
 <br>
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/EdgoAlves820/EdgoAlves820/output/github-snake-dark.svg" alt="Snake Animation" />
+</div>
+
+<div align="center">
   <p><b>Visitors Count:</b></p>
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FEdgoAlves820%2FEdgoAlves820&label=VISITORS&labelColor=%2358A6FF&countColor=%230A0209" alt="Visitors Count" />
 </div>
