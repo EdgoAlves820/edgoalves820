@@ -41,7 +41,9 @@
 ## • 🏆 GitHub Profile Trophy
 
 <div align="center">
+  
   <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=EdgoAlves820&include_all_commits=true&count_private=true&theme=dracula&row=2&no-bg=true&column=8&margin-w=20&margin-h=20" alt="GitHub Trophies" />
+  
 </div>
 
 <br>
@@ -70,12 +72,18 @@
 <br>
 
 <div align="center">
+  
   <img src="https://raw.githubusercontent.com/EdgoAlves820/EdgoAlves820/output/github-snake-dark.svg" alt="Snake Animation" />
 </div>
 
+<br>
+
 <div align="center">
+  
   <p><b>Visitors Count:</b></p>
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FEdgoAlves820%2FEdgoAlves820&label=VISITORS&labelColor=%2358A6FF&countColor=%230A0209" alt="Visitors Count" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FEdgoAlves820%2FEdgoAlves820&label=VISITORS&labelColor=ff0000&countColor=%230A0209" alt="Visitors Count" />
 </div>
+
+<br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
