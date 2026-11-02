@@ -14,14 +14,15 @@
 <div>
   
 ## • 📊 Stats and Activity
-  
-  <p>
-    <a href="https://github.com/EdgoAlves820/github-readme-streak-stats">
+
+<div align="center">
+    <p>
+      <a href="https://github.com/EdgoAlves820/github-readme-streak-stats">
       <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="EdgoAlves820 streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=EdgoAlves820&theme=blueberry&hide_border=true&short_numbers=true"/>
-    </a>
-    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
-  </p>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="EdgoAlves820 streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=EdgoAlves820&theme=blueberry&hide_border=true&short_numbers=true"/>
+      </a>
+      <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+    </p>
 </div>
 
 <br>
@@ -30,10 +31,22 @@
 
 <div align="center">
 
-| <a href="https://github.com/EdgoAlves820"><img align="center" src="https://github-stats-extended.vercel.app/api?username=EdgoAlves820&show_icons=true&include_all_commits=true&theme=blueberry" alt="EdgoAlves820 GitHub stats" /></a> | <a href="https://github.com/EdgoAlves820"><img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=EdgoAlves820&layout=compact&langs_count=4&theme=blueberry" alt="Top Langs" /></a> |
+| <a href="https://github.com/EdgoAlves820"><img align="center" src="https://github-stats-extended.vercel.app/api?username=EdgoAlves820&show_icons=true&include_all_commits=true&commits_year=2022&cache_seconds=1&theme=blueberry" alt="EdgoAlves820 GitHub stats" /></a> | <a href="https://github.com/EdgoAlves820"><img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=EdgoAlves820&layout=compact&langs_count=4&theme=blueberry" alt="Top Langs" /></a> |
 | :---: | :---: |
-
+<p>👉🏾 Get stats for your profile at <a href="https://github-stats-extended.vercel.app/frontend/">github-stats-extended</a></p>
 </div>
+
+<br>
+
+## • 🏆 GitHub Profile Trophy
+
+<div align="center">
+  
+  <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=EdgoAlves820&include_all_commits=true&count_private=true&theme=dracula&row=2&no-bg=true&column=8&margin-w=20&margin-h=20" alt="GitHub Trophies" />
+  
+</div>
+
+<br>
 
 ## • Basic Knowledge
 
@@ -49,16 +62,6 @@
   <code><img height="40" alt="bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"></code>
   <code><img height="40" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
   <code><img height="40" alt="github" src="https://user-images.githubusercontent.com/107283708/176740466-4f060c8e-32cd-4b8f-86b8-90338859fcb4.png"></code>
-</div>
-
-<br>
-
-## • 🏆 GitHub Profile Trophy
-
-<div align="center">
-  
-  <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=EdgoAlves820&include_all_commits=true&count_private=true&theme=dracula&row=2&no-bg=true&column=8&margin-w=20&margin-h=20" alt="GitHub Trophies" />
-  
 </div>
 
 <br>
@@ -92,6 +95,12 @@
 </div>
 
 <br>
+
+## Top Repositories
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=EdgoAlves820&repo=EdgoAlves820%2Fgithub-readme-stats&show_owner=true&theme=react)](https://github.com/EdgoAlves820/github-readme-stats)
+
+<br><br>
 
 <div align="center">
   
