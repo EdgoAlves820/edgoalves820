@@ -11,13 +11,29 @@
 
 <br>
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=EdgoAlves820&theme=blueberry)](https://git.io/streak-stats)
-
+<div>
+  
+## • 📊 Stats and Activity
+  
+  <p>
+    <a href="https://github.com/EdgoAlves820/github-readme-streak-stats">
+      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="EdgoAlves820 streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=EdgoAlves820&theme=blueberry&hide_border=true&short_numbers=true"/>
+    </a>
+    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+  </p>
 </div>
 
 <br>
+
+  ## • 💻 GitHub Profile Stats
+
+<div align="center">
+
+| <a href="https://github.com/EdgoAlves820"><img align="center" src="https://github-stats-extended.vercel.app/api?username=EdgoAlves820&show_icons=true&include_all_commits=true&theme=blueberry" alt="EdgoAlves820 GitHub stats" /></a> | <a href="https://github.com/EdgoAlves820"><img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=EdgoAlves820&layout=compact&langs_count=4&theme=blueberry" alt="Top Langs" /></a> |
+| :---: | :---: |
+
+</div>
 
 ## • Basic Knowledge
 
