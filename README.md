@@ -13,8 +13,7 @@
 
 <div align="center">
 
-| <a href="https://github.com/EdgoAlves820"><img align="center" src="https://github-readme-stats.vercel.app/api?username=EdgoAlves820&show_icons=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true" alt="EdgoAlves820 GitHub stats" /></a> | <a href="https://github.com/EdgoAlves820"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdgoAlves820&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Linguagens mais usadas" /></a> |
-| :---: | :---: |
+[![GitHub Streak](https://streak-stats.demolab.com/?user=EdgoAlves820&theme=blueberry)](https://git.io/streak-stats)
 
 </div>
 
