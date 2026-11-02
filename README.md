@@ -96,12 +96,6 @@
 
 <br>
 
-## Top Repositories
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=EdgoAlves820&repo=EdgoAlves820%2Fgithub-readme-stats&show_owner=true&theme=blueberry)](https://github.com/EdgoAlves820/github-readme-stats)
-
-<br><br>
-
 <div align="center">
   
   <p><b>Visitors Count:</b></p>
