@@ -31,7 +31,7 @@
 
 <div align="center">
 
-| <a href="https://github.com/EdgoAlves820"><img align="center" src="https://github-stats-extended.vercel.app/api?username=EdgoAlves820&show_icons=true&include_all_commits=true&commits_year=2022&cache_seconds=1&theme=blueberry" alt="EdgoAlves820 GitHub stats" /></a> | <a href="https://github.com/EdgoAlves820"><img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=EdgoAlves820&layout=compact&langs_count=4&theme=blueberry" alt="Top Langs" /></a> |
+| <a href="https://github.com/EdgoAlves820"><img align="center" src="https://github-stats-extended.vercel.app/api?username=EdgoAlves820&show_icons=true&include_all_commits=true&theme=blueberry" alt="EdgoAlves820 GitHub stats" /></a> | <a href="https://github.com/EdgoAlves820"><img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=EdgoAlves820&layout=compact&langs_count=4&theme=blueberry" alt="Top Langs" /></a> |
 | :---: | :---: |
 <p>👉🏾 Get stats for your profile at <a href="https://github-stats-extended.vercel.app/frontend/">github-stats-extended</a></p>
 </div>
@@ -98,7 +98,7 @@
 
 ## Top Repositories
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=EdgoAlves820&repo=EdgoAlves820%2Fgithub-readme-stats&show_owner=true&theme=react)](https://github.com/EdgoAlves820/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=EdgoAlves820&repo=EdgoAlves820%2Fgithub-readme-stats&show_owner=true&theme=blueberry)](https://github.com/EdgoAlves820/github-readme-stats)
 
 <br><br>
 
