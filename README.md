@@ -27,13 +27,13 @@
 
 <br>
 
-  ## • 💻 GitHub Profile Stats
+## • 💻 GitHub Profile Stats
 
 <div align="center">
 
 | <a href="https://github.com/EdgoAlves820"><img align="center" src="https://github-stats-extended.vercel.app/api?username=EdgoAlves820&show_icons=true&include_all_commits=true&theme=blueberry" alt="EdgoAlves820 GitHub stats" /></a> | <a href="https://github.com/EdgoAlves820"><img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=EdgoAlves820&layout=compact&langs_count=4&theme=blueberry" alt="Top Langs" /></a> |
 | :---: | :---: |
-<p>👉🏾 Get stats for your profile at <a href="https://github-stats-extended.vercel.app/frontend/">github-stats-extended</a></p>
+<p>👉🏾 Get stats for your profile at <a href="https://streak-stats.demolab.com/demo/">github-stats-extended</a></p>
 </div>
 
 <br>
